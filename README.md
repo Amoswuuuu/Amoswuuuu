@@ -1,4 +1,4 @@
-### Hi there, I'am Amos! 👋
+### Hi, I'am Amos! 👋
 
 > - 🌱 I'm currently working on Windows App, Linux App and Python Web Api service.
 > - 🦉 I'm currently learning Electron, Golang, and Qt.
